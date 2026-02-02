@@ -24,26 +24,6 @@ Transform study materials into interactive resources! PageLM converts documents 
 
 **Tech Stack:** TypeScript, React, TailwindCSS, LangChain, Docker
 
----
-
-### 🤔 [OpenReason](https://github.com/CaviraOSS/OpenReason)
-**Adaptive Reasoning Engine for Context-Aware Intelligence** ⭐ 38+
-
-An efficient reasoning engine that provides adaptive logic and evaluation for AI systems. Built for complex problem-solving with support for various LLM providers.
-
-**Tech Stack:** TypeScript, LangChain, Node.js
-
----
-
-### 🛡️ [SecuPrompt](https://github.com/CaviraOSS/SecuPrompt)
-**Protect your AI from Prompt Injection**
-
-A security-focused tool that guards AI applications against prompt injection, jailbreaks, and poisoning attacks. Essential for production AI deployments.
-
-**Tech Stack:** TypeScript, Python, LangChain, OpenAI, Ollama
-
----
-
 ## 🎯 Our Mission
 
 We believe in:
