@@ -56,7 +56,7 @@ We believe in:
 
 ## 💬 Get Involved
 
-- 💡 [Discussions](https://github.com/CaviraOSS/discussions) - Share ideas and get help
+- 💡 [Discussions](https://github.com/orgs/CaviraOSS/discussions) - Share ideas and get help
 - 🐛 [Issues](https://github.com/search?q=org%3ACaviraOSS+is%3Aissue+is%3Aopen&type=issues) - Report bugs or request features
 - 🤝 [Contributing](https://github.com/CaviraOSS) - Check out our repositories and contribute
 
